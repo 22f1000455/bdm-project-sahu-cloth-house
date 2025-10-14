@@ -1,4 +1,4 @@
-# Sahu Cloth House Store Analysis
+# Optimizing Retail Sales and Stock Management for Sahu Cloth House
 
 This project explores sales and inventory data for Sahu Cloth House, a retail store in Haryana, aiming to boost profits and streamline store operations.
 
