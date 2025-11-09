@@ -31,7 +31,6 @@ IIT Madras - Statistics & Data Science Program
 
 ## Getting Started
 
-- Download the Excel files and analysis documents from this repository.
 - Review the formulas, charts, and summary statistics for insights.
 - Apply recommendations to similar retail datasets for optimization.
 
